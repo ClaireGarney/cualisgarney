@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Claire's LSC555 Webpage</title>
+		<meta name="keywords" contents="CUA, LIS, 555, HTML, dog, reading" />
+		<meta charset= "UTF-8" />
+	</head>
+	<body>
+		<h1> Spot's Fan Page</h1>
+		<p> My dog Spot is the best dog. He is more extroverted than I am, and always goes up to strangers when we are on a walk. But when we are at home he just likes to lay in the blankets next to me on the couch. </p>
+		<p> Spot's favorite things are</p>
+			<ol>
+			<li>tennis balls</li>
+			<li>food</li>
+			<li>nap time</li>
+		<p> After I finish my studies, he will go also back to school so he can pass a Canine Good Citizenship Test and then children can practice reading to him. People Animal Love (PAL) is one organization that arranges reading time to dogs. </p>
+		<a href="https://www.peopleanimalslove.org">PAL Website</a>
+	</body>
+</html>
